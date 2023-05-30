@@ -37,7 +37,7 @@ This is javascript project given in the **Ineuron's Full Stack JavaScript Develo
 ## 📫 Contect me
 
 [Linkedin](https://www.linkedin.com/in/vishal-kumar-909758228/) <br>
-[Instagram](https://www.instagram.com/_vishal.kumar07/?next=%2F)
+[Instagram](https://www.instagram.com/_visshal_yadav)
 
 ## 🙌 Acknowledgements:
 
